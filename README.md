@@ -2,7 +2,7 @@
 IPython notebooks of compressive sensing
 
 -------
-Compressive sensing is the framework which reconstructs signals from much fewer measurments than the Nyquist-Shannon sampling frequency. In this material, the theory and simulations are introduced using python experiment codes with CSToolbox, which is python/numpy toolbox for Compressive Sensing.
+Compressive sensing is the framework which reconstructs signals from much fewer measurments than the Nyquist-Shannon sampling frequency. In this material, the theory and simulations are introduced using **python experiment codes** with [CSToolbox](https://github.com/rmiya56/CSToolbox), which is python/numpy toolbox for Compressive Sensing.
 
 
 ## Table of Contents
