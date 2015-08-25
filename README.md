@@ -7,8 +7,11 @@ Compressive sensing is the framework which reconstructs signals from much fewer 
 
 ## Table of Contents
 
+### Theory
 1. [Introduction](http://nbviewer.ipython.org/github/rmiya56/CompressiveSensingNotebooks/blob/master/Introduction.ipynb)
-1. [Sparse and Compressible Signal](http://nbviewer.ipython.org/github/rmiya56/CompressiveSensingNotebooks/blob/master/Sparse_and_Compressible_Signal.ipynb)
-1. [Measurement Matrix](http://nbviewer.ipython.org/github/rmiya56/CompressiveSensingNotebooks/blob/master/Measurement_Matrix_Creation.ipynb)
+1. [Sparse Signal](http://nbviewer.ipython.org/github/rmiya56/CompressiveSensingNotebooks/blob/master/Sparse_and_Compressible_Signal.ipynb)
+1. [Measurement Matrix](http://nbviewer.ipython.org/github/rmiya56/CompressiveSensingNotebooks/blob/master/Measurement_Matrix.ipynb)
+1. [Sparse Recovery](http://nbviewer.ipython.org/github/rmiya56/CompressiveSensingNotebooks/blob/master/Sparse_Recovery.ipynb)
 
+### Experiments
 
